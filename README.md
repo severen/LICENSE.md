@@ -1,4 +1,3 @@
 LICENSE.md
 ==========
-
-A bunch of FOSS licenses formatted in Markdown for extra fancy
+Software licenses formatted in Markdown for that little extra bit of fanciness.
