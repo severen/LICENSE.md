@@ -1,4 +1,4 @@
-**Copyright (c) &lt;year>, &lt;fullname>**
+**Copyright &copy; &lt;year>, &lt;fullname>**
 
 **All rights reserved.**
 
